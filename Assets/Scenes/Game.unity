@@ -1535,7 +1535,7 @@ Transform:
   - {fileID: 3867867}
   - {fileID: 325069494}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &644838881
 PrefabInstance:
@@ -2511,7 +2511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4521874486784168, guid: 01348926c7cbb3347a006c37204131c3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 4521874486784168, guid: 01348926c7cbb3347a006c37204131c3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2519,7 +2519,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4521874486784168, guid: 01348926c7cbb3347a006c37204131c3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -7.77
       objectReference: {fileID: 0}
     - target: {fileID: 4521874486784168, guid: 01348926c7cbb3347a006c37204131c3, type: 3}
       propertyPath: m_LocalRotation.x
@@ -2984,7 +2984,7 @@ PrefabInstance:
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.6
+      value: 9.32
       objectReference: {fileID: 0}
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
@@ -2994,7 +2994,7 @@ PrefabInstance:
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 10.05
       objectReference: {fileID: 0}
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
@@ -3019,7 +3019,7 @@ PrefabInstance:
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 7218707837003764935, guid: 91edbda46cbacec43900dffccdf0c76a,
         type: 3}
